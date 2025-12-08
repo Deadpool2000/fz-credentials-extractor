@@ -47,7 +47,7 @@ A PyQt6 GUI application to parse and view FileZilla server exports. It automatic
 
 3. **Run the Application:**
    ```bash
-   python xml_viewer.py
+   python main.py
    ```
 
 ## Usage
@@ -82,8 +82,7 @@ To get the XML file required for this tool:
 
 * Python 3.7+
 * PyQt6
-* xml.etree.ElementTree (included in Python standard library)
-* base64 (included in Python standard library)
+
 
 See `requirements.txt` for specific version requirements.
 
@@ -138,6 +137,3 @@ This project is licensed under the GNU GPL 3.0 License - see the LICENSE file fo
 
 This tool is provided for educational and legitimate password recovery purposes only. The author is not responsible for any misuse of this software. Always respect privacy and security laws in your jurisdiction.
 
----
-
-⭐ If you find this project useful, please consider giving it a star on GitHub!
