@@ -127,7 +127,7 @@ This project is licensed under the GNU GPL 3.0 License - see the LICENSE file fo
 ## Author
 
 **Your Name**
-* GitHub: [@YDeadpool2000](https://github.com/Deadpool2000)
+* GitHub: [@Deadpool2000](https://github.com/Deadpool2000)
 * Email: d2kyt@protonmail.com
 * LinkedIn: [Connect Me](https://linkedin.com/in/salil-mhatre-d2k)
 
