@@ -1,4 +1,4 @@
-# FileZilla Credential Extractor
+# FZ Credential Extractor
 
 A PyQt6 GUI application to parse and view FileZilla server exports. It automatically decodes base64-encoded passwords and presents them in a clean, searchable table format.
 
