@@ -1,4 +1,4 @@
-# FileZilla Credential Extractor
+# FZ Credential Extractor
 
 A PyQt6 GUI application to parse and view FileZilla server exports. It automatically decodes base64-encoded passwords and presents them in a clean, searchable table format.
 
@@ -18,7 +18,7 @@ A PyQt6 GUI application to parse and view FileZilla server exports. It automatic
 **No Python installation required!**
 
 1. **Download the Latest Release:**
-   * Go to the [Releases](https://github.com/Deadpool2000/filezilla-credentials-extractor/releases) page
+   * Go to the [Releases](https://github.com/Deadpool2000/fz-credentials-extractor/releases) page
    * Download the latest `.exe` file
 
 2. **Run the Application:**
@@ -36,8 +36,8 @@ A PyQt6 GUI application to parse and view FileZilla server exports. It automatic
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Deadpool2000/filezilla-credentials-extractor
-   cd filezilla-credentials-extractor
+   git clone https://github.com/Deadpool2000/fz-credentials-extractor
+   cd fz-credentials-extractor
    ```
 
 2. **Install Dependencies:**
@@ -126,7 +126,6 @@ This project is licensed under the GNU GPL 3.0 License - see the LICENSE file fo
 
 ## Author
 
-**Your Name**
 * GitHub: [@YDeadpool2000](https://github.com/Deadpool2000)
 * Email: d2kyt@protonmail.com
 * LinkedIn: [Connect Me](https://linkedin.com/in/salil-mhatre-d2k)

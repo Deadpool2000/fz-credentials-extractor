@@ -12,7 +12,7 @@ from PyQt6.QtGui import QColor, QFont, QIcon
 class ServerXMLViewer(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("FileZilla Credential Extractor")
+        self.setWindowTitle("FZ Credential Extractor")
         self.resize(1200, 700)
         
         self.headers = ["Host", "Port", "Protocol", "Type", "User", "Pass", 
